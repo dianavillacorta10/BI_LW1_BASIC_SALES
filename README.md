@@ -2,14 +2,13 @@
 
 ## Verify Data in Data View
 - **Are all columns visible?**  
-  Yes, you should be able to see all five columns: Region, Category, Year (or Date), Sales, and a unique identifier like Product Name.
+  Yes, all columns are visible in Power BI’s Data View.
 
 - **Is “Date” formatted as Date?**  
-  I’ve already formatted the Date column correctly.
+  Yes. The “Date” column is already formatted as Date in my Power BI dataset
 
 - **Is “Sales” formatted as Decimal Number?**  
-  Yes, the Sales column should be a Decimal Number so that the visuals can correctly calculate totals, like $220.23K.
-
+  Yes. The “Sales” column is formatted as a Decimal Number in Power BI, which allows the visuals to correctly calculate totals, sums, and   other aggregations, like showing $220.23K in the charts.
 ---
 
 ## Quick Visualization
@@ -20,7 +19,7 @@
   This is a Bar Chart.  
 
 - **What does it show?**  
-  Total Sales: The chart represents the "Sum of Sales," which is the total amount of money made.
+  It shows the total sales for each category or region. Specifically, it represents the “Sum of Sales”, meaning the total amount of money   generated, allowing you to easily compare which categories or regions perform better.
 
 ---
 
@@ -29,8 +28,7 @@
 
 **Answers to Questions:**  
 - **Which region has highest sales?**  
-  The West is the highest sales in the graph.
-
+  The West region has the highest sales
 ---
 
 ## Sales by Category
@@ -38,11 +36,10 @@
 
 **Answers to Questions:**  
 - **Which category dominates?**  
-  Electronics is the largest part of the pie chart, with 90K in sales, making up 40.82% of the total.  
+  The Electronics category dominates, with the highest sales of 90K, making up 40.82% of the total sales.  
 
 - **Is the distribution balanced?**  
-  The sales are not balanced. Office Supplies make up only 19.99% of sales, about half of the other two categories. Electronics (40.82%) and Furniture (39.19%) are almost equal, but the low sales of Office Supplies make the distribution uneven.
-
+  No, the distribution is not balanced. While Electronics (40.82%) and Furniture (39.19%) are almost equal, Office Supplies only makes up 19.99% of sales, which is about half of the other two categories, making the overall distribution uneven.
 ---
 
 ## Sales Over Time
@@ -53,7 +50,7 @@
   There is no growth. Sales went down a lot between the two years.  
 
 - **Any noticeable trend?**  
-  The Sum of Sales by Year chart shows that sales are going down fast. Sales started high in 2024 at around 80K, but they dropped quickly in 2025 to just above 10K.
+  Yes, there is a noticeable trend sales are decreasing sharply over time. In the Sales Over Time chart, sales started high in 2024 at around 80K but dropped quickly in 2025 to just above 10K, showing a significant decline year over year.
 
 ---
 
@@ -65,7 +62,7 @@
   The Electronics category performs the best, making $90,000 in sales, which is 40.82% of the total.  
 
 - **Are sales consistent across dates?**  
-  No, sales are very inconsistent. They dropped a lot, from about $80,000 in 2024 to around $10,000 in 2025.  
+  No, sales are very inconsistent.
 
 - **Business recommendation:**  
   Investigate why sales dropped almost 87% in 2025. Focus marketing on the West and East regions, and on Electronics and Furniture, since these bring in the most sales.
@@ -127,19 +124,17 @@
   All other charts update to show only the selected region’s data.  
 
 - **Why is filtering important in BI?**  
-  It helps focus on relevant data, identify problems, and make faster, clearer decisions.
-
+  Filtering is crucial in Business Intelligence (BI) because it helps you focus on the most relevant data and extract meaningful insights without being overwhelmed by the full dataset.
 ---
 
 ## Sort Sales
 
 **Answers to Questions:**  
 - **Does sorting improve readability?**  
-  Yes, it organizes data clearly, making comparisons easier.  
+  Yes, sorting improves readability because it makes trends obvious, allows easier comparisons, reduces cognitive load, highlights outliers, and helps communicate insights clearly. 
 
 - **Why?**  
-  Bars are sorted descending (West, East, South, North), letting viewers quickly identify top and bottom performers.
-
+  Sorting improves readability because it organizes data in a logical order, making it easier for the viewer to understand patterns, compare values, and quickly identify important information without having to search through random or unsorted data.
 ---
 
 ## Identify Outliers
