@@ -25,7 +25,7 @@
 ---
 
 ## Create a Sales by Region Chart
-![Region Chart](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/0038261cbef931c2a79377192d906d7bb832b5a3/Region%20Chart.png)
+![Region Chart](https://github.com/dianavillacorta10/BI_LW1_BASIC_SALES/blob/bac41de41a6ba7bc187dd1acefa2149143a91d18/Region%20Chart.png)
 
 **Answers to Questions:**  
 - **Which region has highest sales?**  
@@ -34,7 +34,7 @@
 ---
 
 ## Sales by Category
-![Sales by Category](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/bfde732183fe7176fa9ab887e5db210bc4b0ad9b/Sales%20by%20Category.png)
+![Sales by Category](https://github.com/dianavillacorta10/BI_LW1_BASIC_SALES/blob/bac41de41a6ba7bc187dd1acefa2149143a91d18/Sales%20by%20Category.png)
 
 **Answers to Questions:**  
 - **Which category dominates?**  
@@ -46,7 +46,7 @@
 ---
 
 ## Sales Over Time
-![Sales Over Time](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/670fd15e2e216c23848e8f898b89ab98f278c6ad/Sales%20Over%20Time.png)
+![Sales Over Time](https://github.com/dianavillacorta10/BI_LW1_BASIC_SALES/blob/bac41de41a6ba7bc187dd1acefa2149143a91d18/Sales%20Over%20Time.png)
 
 **Answers to Questions:**  
 - **Is there growth?**  
@@ -111,7 +111,7 @@
 ---
 
 ## Add a Card Visualization
-![Card Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/5406d213b6b1934bdad20d5a241a6c677beb45a0/Card%20Visualization.png)
+![Card Visualization](https://github.com/dianavillacorta10/BI_LW1_BASIC_SALES/blob/26d108111b6e41c878a381cf5f9254d2c05b9660/Card%20%20%20Visualization.png)
 
 **Answers to Questions:**  
 - **What is the total sales amount?**  
@@ -120,7 +120,7 @@
 ---
 
 ## Add Slicer
-![Add Slicer](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/034334b9d0bced4693fb38063371c433866ee5cc/Add%20Slicer.png)
+![Add Slicer](https://github.com/dianavillacorta10/BI_LW1_BASIC_SALES/blob/26d108111b6e41c878a381cf5f9254d2c05b9660/Add%20Slicer%20(2).png)
 
 **Answers to Questions:**  
 - **What happens to other visuals when you click a region?**  
