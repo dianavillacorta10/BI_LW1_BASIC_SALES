@@ -13,7 +13,7 @@
 ---
 
 ## Quick Visualization
-![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
+![Quick Visualization](https://github.com/dianavillacorta10/BI_LW1_BASIC_SALES/blob/bac41de41a6ba7bc187dd1acefa2149143a91d18/Quick%20Visualization.png)
 
 **Answers to Questions:**  
 - **What type of chart was created?**  
