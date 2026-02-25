@@ -5,7 +5,7 @@ Step 3: Verify Data in Data View
 ○ Is “Date” formatted as Date?
 ○ Is “Sales” formatted as Decimal Number?
 
-PART 3: Creating Auto-Generated Visuals
+PART 3: Creating Auto-Generated Visuals 
 Step 1: Quick Visualization
 ##Question:
 ● What type of chart was created?
